@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00                                                                                                                                                                                     youtube.com/AdamxYT
 
-;Registry (c) 1310s  
+;Registry (c) howto Youtube
 ;Disable Windows Defender Antivirus Service
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinDefend]
 "Start"=dword:00000004

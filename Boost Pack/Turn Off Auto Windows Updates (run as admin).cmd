@@ -1,5 +1,5 @@
 @echo off
-echo (c) 1310s
+echo (c) howto Youtube
 taskkill -F -FI "IMAGENAME eq SystemSettings.exe"
 net stop wuauserv
 net stop UsoSvc

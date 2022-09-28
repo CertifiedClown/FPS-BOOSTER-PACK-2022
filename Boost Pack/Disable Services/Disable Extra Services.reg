@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00                                                                                                                                                                                     youtube.com/AdamxYT
 
-;Registry (c) 1310s  
+;Registry (c) howto Youtube
 ;Disable Windows Biometric Service
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WbioSrvc]
 "Start"=dword:00000004
