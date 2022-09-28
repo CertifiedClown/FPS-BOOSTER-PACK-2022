@@ -4,7 +4,7 @@
 
 # Optimize Windows Tools for fps boost
 
-# RThis list will keep getting updated
+# This list will keep getting updated!
 
 # Info 📝
 <ul><li>Windows and app optimization using cmd and Registry files!</li><li>
